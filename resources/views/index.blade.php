@@ -168,31 +168,25 @@
                       <div class="card-body">
                         <i class="ri-heart-2-line" style="font-size: 50px; color: #DFC370;"></i>
                         <h4 class="card-title"><b>Akad Nikah</b></h4>
-                        <p style="color: #cab169;"><b>Jum'at, 28 Agustus 2020</b></p>
-                        <p style="color: #cab169;"><b>08:00 WIB - Selesai</b></p>
-                        <p style="color: #cab169;"><b>KUA Pamulang</b></p>
+                        <p style="color: #cab169;"><b>Ahad, 08 November 2020</b></p>
+                        <p style="color: #cab169;"><b>09.00 WIB - Selesai</b></p>
+                        {{-- <p style="color: #cab169;"><b>KUA Pamulang</b></p> --}}
                         <h4 class="card-title"><b>Resepsi Pernikahan</b></h4>
-                        {{-- <p style="color: #cab169;"><b>13:00 - 16:30 WIB</b></p> --}}
-                        <p style="color: #cab169;"><b>Minggu, 30 Agustus 2020</b></p>
-                        <p style="color: #cab169;"><b>Aula Masjid Nurul Hidayah</b></p>
-                        {{-- <a href="https://www.google.com/maps/place/Lembur+Kuring+BSD,+Sunburst+BSD+Lot+II+No.+7,+Jl.+Kapten+Soebijanto+Djojohadikusumo,+BSD+City,+Lengkong+Gudang,+Tangerang,+Lengkong+Gudang,+Kec.+Serpong,+Kota+Tangerang+Selatan,+Banten+15322/@-6.2992087,106.6652068,17z/data=!4m2!3m1!1s0x2e69fb2dfc8d0195:0xaf7954ecb2f5a989" class="btn text-white" style="background-color: #cab169;" target="_blank">
-                          Lihat Lokasi</a> --}}
+                        <p style="color: #cab169;"><b>14.00 - 17.00 WIB</b></p>
+                        <p style="color: #cab169;"><b>Ahad, 08 November 2020</b></p>
+                        <p style="color: #cab169;"><b>Griya Suradita Indah B12 No. 3 RT 02/09, Suradita-Cisauk Kab. Tangerang</b></p>
+                        <a href="https://www.google.com/maps/place/6%C2%B020'36.2%22S+106%C2%B037'49.2%22E/@-6.3433924,106.6281442,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d-6.3433924!4d106.6303329?hl=en" class="btn text-white" style="background-color: #cab169;" target="_blank">
+                          Lihat Lokasi</a>
                       </div>                 
                     </div>                               
                   </div>                  
                 </div> <br>
                 <div class="row">
                   <div class="col-lg-12 text-center" style="font-family: Arial, Helvetica, sans-serif;" data-aos="fade-left" data-aos-delay="100">
-                    <p>Karena pandemi Covid-19, kami tidak dapat mengundang Bapak/Ibu/Saudara/i 
-                      untuk datang menghadiri acara akad dan resepsi pernikahan kami. Untuk itu kami menyediakan virtual event 
-                      akad nikah kami melaui live instagram yang dapat anda ikuti sesuai dengan jadwal acara di atas. </p>
-                      {{-- <p>Kami mengundang Bapak/Ibu/Saudara/i untuk datang menghadiri acara resepsi pernikahan yang diadakan sesuai jadwal acara di atas. 
-                        Karena adanya pandemi Covid-19 sesuai protokol kesehatan pemerintah setiap tamu yang datang diwajibkan 
-                        memakai masker, kami akan menyediakan handsanitizer untuk para tamu, serta hanya membawa 
-                        satu pasangan untuk datang ke acara resepsi pernikahan kami. Kami menyediakan virtual event untuk 
-                        akad nikah melalui live instagram yang dapat anda ikuti sesuai dengan jadwal acara di atas. </p>            --}}
+                    <p>Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir memberi doa dan restu kepada kami. Tanpa mengurangi rasa hormat kami, dimohon bagi tamu undangan agar tetap menjaga 
+                      jarak dan menggunakan masker sesuai dengan protokol kesehatan Covid-19. Terimakasih </p>
                   </div>
-                  <div class="col-lg-12 text-center">
+                  {{-- <div class="col-lg-12 text-center">
                     <p><b>Live Instagram</b></p>                    
                   </div>
                   <div class="col-lg-12 text-center">
@@ -200,7 +194,7 @@
                       Miranda <i class="icofont-instagram"></i></a> <br> <br>
                       <a href="https://www.instagram.com/hasbyas16/" class="btn text-white rounded-pill" style="background-color: #671e25;" target="_blank">
                         Hasby <i class="icofont-instagram"></i></a>
-                  </div>
+                  </div> --}}
                 </div>        
               </div>
             </section><!-- End Features Section -->
@@ -348,15 +342,15 @@
                   <div class="col-lg-12 text-center" data-aos="fade-left" data-aos-delay="100">
                     <div class="card" style="background-color: #644c09;" >
                       <div class="card-body">
+                        <b><p style="color:white">BANK BRI</p></b>
+                        <p style="color:white">
+                          NO. REK: 762001008874533</p>
+                        <p style="color:white">A/N: Novica Putri</p>
+
                         <b><p style="color:white">BANK MANDIRI</p></b>
                         <p style="color:white">
-                          NO. REK: 1640001649260</p>
-                        <p style="color:white">A/N: Muhammad Hasby Ash Shiddieqy</p>
-
-                        <b><p style="color:white">BANK BCA</p></b>
-                        <p style="color:white">
-                          NO. REK: 4730668312</p>
-                        <p style="color:white">A/N: Miranda</p>
+                          NO. REK: 1640001873688</p>
+                        <p style="color:white">A/N: Fajar Sidik</p>
 
                         <i><p style="color:white">tambahkan berita dengan nama anda</p></i>
                       </div>                 
@@ -372,9 +366,8 @@
                   <div class="col-lg-12 text-center" data-aos="fade-left" data-aos-delay="100">
                     <div class="card" style="background-color: #644c09;" >
                       <div class="card-body">
-                        <p style="color:white">Jl.Adi sengkong, Kp. Maruga RT 05 RW 04 No 47, 
-                          pamulang 2 Kec. ciputat Kel. Serua Kota Tagerang Selatan 15414 </p>
-                          <i><p style="color:white">-- Muhammad Hasby Ash Shiddieqy --</p></i>
+                        <p style="color:white">Griya Suradita Indah B12 No. 3 RT 02/09, Suradita-Cisauk Kab. Tangerang </p>
+                          {{-- <i><p style="color:white">-- Muhammad Hasby Ash Shiddieqy --</p></i> --}}
                       </div>                 
                     </div>                               
                   </div>                  
@@ -412,13 +405,13 @@
         <div class="row">
           <div class="col-12 text-center">
             <h1 style="font-family:promocyja, greatVibes;"><b>From Us</b></h1> <br>
-            <h1 style="font-family:greatVibes;"><b>Hasby & Miranda</b></h1> <br>
+            <h1 style="font-family:greatVibes;"><b>Fajar & Novica</b></h1> <br>
           </div class="col-12">
             <!-- ======= Testimonials Section ======= -->
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               
             </div>
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            {{-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <section>
                 <div class="container" data-aos="zoom-in">
           
@@ -471,7 +464,7 @@
           
                 </div>
               </section><!-- End Testimonials Section -->
-            </div>
+            </div> --}}
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               
             </div>
@@ -481,7 +474,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="{{asset('assets/img/team/Hasbi-84.jpg')}}" class="img-fluid" alt="">
+                <img src="{{asset('assets/img/team/1.jpg')}}" class="img-fluid" alt="">
               </div>
             </div>
           </div>
@@ -489,7 +482,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="{{asset('assets/img/team/Hasbi-147.jpg')}}" class="img-fluid" alt="">
+                <img src="{{asset('assets/img/team/2.jpg')}}" class="img-fluid" alt="">
               </div>
             </div>
           </div>
@@ -497,7 +490,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="{{asset('assets/img/team/8.jpg')}}" class="img-fluid" alt="">
+                <img src="{{asset('assets/img/team/3.jpg')}}" class="img-fluid" alt="">
               </div>
             </div>
           </div>
@@ -515,7 +508,7 @@
           <iframe style="border:0; width: 100%; height: 270px;" src="https://maps.google.com/maps?q=lembur%20kuring%20bsd&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" allowfullscreen></iframe>
         </div> --}}
         <audio id="music" loop>
-          <source src={{asset("assets/music/westlife-i-wanna-grow-old-with-you.mp3")}} type="audio/mpeg">
+          <source src={{asset("assets/music/lagu.mp3")}} type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
 
