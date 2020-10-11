@@ -73,12 +73,11 @@
         <div class="row">
           <div class="col-lg-12 order-1 order-lg-2 text-center" data-aos="fade-left" data-aos-delay="100">
             <p>
-              “Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu 
-              isteri-isteri dari jenismu sendiri, 
-              supaya kamu cenderung dan merasa tenteram kepadanya, 
-              dan dijadikan-Nya diantaramu rasa kasih dan sayang. 
-              Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda 
-              bagi kaum yang berfikir”(QS. Ar-Ruum 30 : 21)
+              "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan 
+              untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, 
+              dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian 
+              itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir."
+              (QS. Ar-Rum 30: Ayat 21)
             </p>
           </div>
         </div>
@@ -111,8 +110,8 @@
               </div>
               <div class="member-info text-center">
                 <h2 style="font-family:montez, greatVibes, sans-serif; color: #925d2e;">Fajar Sidik</h2>
-                <span>Putra Dari :</span>
-                <p><b>Anak keempat dari Bpk. Saiman dan Ibu Asiah </b></p>
+                <span>Putra Keempat Dari :</span>
+                <p><b>Bpk. Saiman dan Ibu Asiah </b></p>
                 <a style="font-size: 25px;" href="https://www.instagram.com/hasbyas16/"><i class="icofont-instagram"></i></a>
               </div>
             </div>
@@ -125,8 +124,8 @@
               </div>
               <div class="member-info text-center">
                 <h2 style="font-family:montez, greatVibes, sans-serif; color: #925d2e;">Novica Putri</h2>
-                <span>Putri Dari :</span>
-                 <p><b>Anak kedua dari Bpk. Yusran Iman Yanis dan Ibu Yayah </b></p>
+                <span>Putri Kedua Dari :</span>
+                 <p><b>Bpk. Yusran Iman Yanis dan Ibu Yayah </b></p>
                  <a style="font-size: 25px;" href="https://www.instagram.com/miranda.mrr/"><i class="icofont-instagram"></i></a>
               </div>
             </div>
@@ -170,7 +169,7 @@
                         <h4 class="card-title"><b>Akad Nikah</b></h4>
                         <p style="color: #cab169;"><b>Ahad, 08 November 2020</b></p>
                         <p style="color: #cab169;"><b>09.00 WIB - Selesai</b></p>
-                        {{-- <p style="color: #cab169;"><b>KUA Pamulang</b></p> --}}
+                        <p style="color: #cab169;"><b>Mushola Al-Ukhuwah</b></p>
                         <h4 class="card-title"><b>Resepsi Pernikahan</b></h4>
                         <p style="color: #cab169;"><b>14.00 - 17.00 WIB</b></p>
                         <p style="color: #cab169;"><b>Ahad, 08 November 2020</b></p>
