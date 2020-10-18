@@ -112,7 +112,7 @@
                 <h2 style="font-family:montez, greatVibes, sans-serif; color: #925d2e;">Fajar Sidik</h2>
                 <span>Putra Keempat Dari :</span>
                 <p><b>Bpk. Saiman dan Ibu Asiah </b></p>
-                <a style="font-size: 25px;" href="https://www.instagram.com/hasbyas16/"><i class="icofont-instagram"></i></a>
+                {{-- <a style="font-size: 25px;" href="https://www.instagram.com/hasbyas16/"><i class="icofont-instagram"></i></a> --}}
               </div>
             </div>
           </div>
@@ -126,7 +126,7 @@
                 <h2 style="font-family:montez, greatVibes, sans-serif; color: #925d2e;">Novica Putri</h2>
                 <span>Putri Kedua Dari :</span>
                  <p><b>Bpk. Yusran Iman Yanis dan Ibu Yayah </b></p>
-                 <a style="font-size: 25px;" href="https://www.instagram.com/miranda.mrr/"><i class="icofont-instagram"></i></a>
+                 <a style="font-size: 25px;" href="https://www.instagram.com/nvcptr/"><i class="icofont-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -490,6 +490,20 @@
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
                 <img src="{{asset('assets/img/team/3.jpg')}}" class="img-fluid" alt="">
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="{{asset('assets/img/team/4.jpg')}}" class="img-fluid" alt="">
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="{{asset('assets/img/team/5.jpg')}}" class="img-fluid" alt="">
               </div>
             </div>
           </div>
